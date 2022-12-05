@@ -2,6 +2,7 @@
 
 ETL pipeline:
 Extract database containing investment portfolio from SQL.
+
 Extract insider trading data from day before rundate. 
 
 Transform if there are insider trades in the instruments in the portfolio the SEC EDGAR data is added to the dataframe. 
