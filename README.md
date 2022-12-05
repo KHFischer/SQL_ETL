@@ -1,6 +1,7 @@
 # SQL_ETL
 
 ETL pipeline:
+
 Extract database containing investment portfolio from SQL.
 
 Extract insider trading data from day before rundate. 
